@@ -1,0 +1,6 @@
+CRITICAL - Logging nível critical
+DEBUG - Logging no nível debug
+INFO - Logging no nível info
+WARNING - Logging no nível warning
+ERROR - Loggin no nível error
+WARNING - 2023-04-30 13:32:37,982
